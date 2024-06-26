@@ -1,0 +1,50 @@
+Regular:
+1) View production details
+2) View actors details
+3) View notifications
+4) Search for actor/movie/series
+5) Add/Delete actor/movie/series to/from favorites
+6) Add/Delete request
+7) Add/Delete review for movie/series
+8) Logout
+
+Contributor:
+1) View production details
+2) View actors details
+3) View notifications
+4) Search for actor/movie/series
+5) Add/Delete actor/movie/series to/from favorites
+6) Add/Delete request
+7) Add/Delete actor/movie/series from system
+8) Solve a request
+9) Update actor/movie/series details
+10) Logout
+
+Admin:
+1) View production details
+2) View actors details
+3) View notifications
+4) Search for actor/movie/series
+5) Add/Delete actor/movie/series to/from favorites
+6) Add/Delete actor/movie/series from system
+7) Solve a request
+8) Update actor/movie/series details
+9) Add/Delete user
+10) Logout
+
+
+
+
+
+1) View production details *
+2) View actors details *
+3) View notifications *
+4) Search for actor/movie/series *
+5) Add/Delete actor/movie/series to/from favorites *
+6) Add/Delete request *
+7) Add/Delete actor/movie/series to/from system *
+8) Solve a request
+9) Update actor/movie/series details *
+10) Add/Delete review for movie/series *
+11) Add/Delete user *
+12) Logout *

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "DELETE_ACCOUNT",
+    "createdDate": "2023-09-15T10:00:00",
+    "username": "jessica_miller_1213",
+    "to": "ADMIN",
+    "description": "I want to delete my account."
+  },
+  {
+    "type": "ACTOR_ISSUE",
+    "createdDate": "2023-09-14T15:30:00",
+    "username": "daniel_smith_2627",
+    "actorName": "Tom Hanks",
+    "to": "laura_williams_1617",
+    "description": "There's missing information for Tom Hanks. He is also a filmmaker."
+  },
+  {
+    "type": "MOVIE_ISSUE",
+    "createdDate": "2023-09-13T14:45:00",
+    "username": "benjamin_taylor_3435",
+    "movieTitle": "Inception",
+    "to": "natalie_brown_2021",
+    "description": "There's an error in the Inception movie details.The duration of the movie is 148 minutes."
+  },
+  {
+    "type": "OTHERS",
+    "createdDate": "2023-09-12T09:20:00",
+    "username": "olivia_taylor_2425",
+    "to": "ADMIN",
+    "description": "Please add the movie Titanic."
+  }
+]

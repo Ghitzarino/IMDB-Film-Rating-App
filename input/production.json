@@ -1,0 +1,2151 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "type": "Movie",
+    "directors": [
+      "Frank Darabont"
+    ],
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "ava_brown_3233",
+        "rating": 10,
+        "comment": "A true masterpiece!"
+      },
+      {
+        "username": "benjamin_taylor_3435",
+        "rating": 9,
+        "comment": "A tale of hope and friendship."
+      },
+      {
+        "username": "jessica_miller_1213",
+        "rating": 9,
+        "comment": "Touching and beautifully acted."
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 8,
+        "comment": "Emotionally powerful."
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 10,
+        "comment": "One of my all-time favorites!"
+      }
+    ],
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "averageRating": 9.2,
+    "duration": "142 minutes",
+    "releaseYear": 1994
+  },
+  {
+    "title": "Breaking Bad",
+    "type": "Series",
+    "directors": [
+      "Vince Gilligan"
+    ],
+    "actors": [
+      "Bryan Cranston",
+      "Aaron Paul"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratings": [
+      {
+        "username": "daniel_smith_2627",
+        "rating": 10,
+        "comment": "A roller-coaster of intensity!"
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "One of the best Series ever made."
+      }
+    ],
+    "plot": "A high school chemistry teacher turned methamphetamine manufacturing drug dealer navigates the dangerous criminal underworld.",
+    "averageRating": 9.5,
+    "releaseYear": 2008,
+    "numSeasons": 5,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "Pilot",
+          "duration": "58 minutes"
+        },
+        {
+          "episodeName": "Cat's in the Bag...",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "...And the Bag's in the River",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "Cancer Man",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "Gray Matter",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "Crazy Handful of Nothin",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "A No-Rough-Stuff-Type Deal",
+          "duration": "47 minutes"
+        }
+      ],
+      "Season 2": [
+        {
+          "episodeName": "Seven Thirty-Seven",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Grilled",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Bit by a Dead Bee",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Down",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Breakage",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Peekaboo",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Negro y Azul",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Better Call Saul",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "4 Days Out",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Over",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Mandala",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Phoenix",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "ABQ",
+          "duration": "47 minutes"
+        }
+      ],
+      "Season 3": [
+        {
+          "episodeName": "No Más",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Caballo Sin Nombre",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "I.F.T",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Green Light",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Mas",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Sunset",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "One Minute",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "I See You",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Kafkaesque",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Fly",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Abiquiu",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Half Measures",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Full Measure",
+          "duration": "47 minutes"
+        }
+      ],
+      "Season 4": [
+        {
+          "episodeName": "Box Cutter",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Thirty-Eight Snub",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Open House",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Bullet Points",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Shotgun",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Cornered",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Problem Dog",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Hermanos",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Bug",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Salud",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Crawl Space",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "End Times",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Face Off",
+          "duration": "47 minutes"
+        }
+      ],
+      "Season 5": [
+        {
+          "episodeName": "Live Free or Die",
+          "duration": "43 minutes"
+        },
+        {
+          "episodeName": "Madrigal",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Hazard Pay",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Fifty-One",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Dead Freight",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Buyout",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Say My Name",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Gliding Over All",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Blood Money",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Buried",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Confessions",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Rabid Dog",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "To'hajiilee",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Granite State",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Felina",
+          "duration": "55 minutes"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Pulp Fiction",
+    "type": "Movie",
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "John Travolta",
+      "Uma Thurman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "susan_smith_123",
+        "rating": 9,
+        "comment": "Tarantino's best work!"
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 8,
+        "comment": "Iconic and unforgettable."
+      },
+      {
+        "username": "jessica_miller_1213",
+        "rating": 10,
+        "comment": "A wild ride from start to finish!"
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "Quentin Tarantino at his finest."
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 8,
+        "comment": "A genre-defining classic."
+      }
+    ],
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "averageRating": 8.8,
+    "duration": "154 minutes",
+    "releaseYear": 1994
+  },
+  {
+    "title": "The Godfather",
+    "type": "Movie",
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "ava_brown_3233",
+        "rating": 10,
+        "comment": "A cinematic masterpiece!"
+      },
+      {
+        "username": "benjamin_taylor_3435",
+        "rating": 9,
+        "comment": "A timeless classic."
+      },
+      {
+        "username": "jessica_miller_1213",
+        "rating": 10,
+        "comment": "Brilliant storytelling and performances!"
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 9,
+        "comment": "An offer you can't refuse."
+      },
+      {
+        "username": "susan_smith_123",
+        "rating": 8,
+        "comment": "A mob epic for the ages."
+      }
+    ],
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "averageRating": 9.2,
+    "duration": "175 minutes",
+    "releaseYear": 1972
+  },
+  {
+    "title": "Schindler's List",
+    "type": "Movie",
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "actors": [
+      "Liam Neeson",
+      "Ben Kingsley"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 10,
+        "comment": "Heart-wrenching and powerful."
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 9,
+        "comment": "A film that leaves a lasting impact."
+      },
+      {
+        "username": "susan_smith_123",
+        "rating": 10,
+        "comment": "A powerful testament to the human spirit."
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 9,
+        "comment": "Spielberg's masterpiece."
+      }
+    ],
+    "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "averageRating": 9.5,
+    "duration": "195 minutes",
+    "releaseYear": 1993
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "type": "Movie",
+    "directors": [
+      "Peter Jackson"
+    ],
+    "actors": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 10,
+        "comment": "Epic conclusion to an epic trilogy!"
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 9,
+        "comment": "A fantasy masterpiece."
+      },
+      {
+        "username": "jessica_miller_1213",
+        "rating": 10,
+        "comment": "A breathtaking cinematic achievement!"
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 9,
+        "comment": "A journey worth every minute."
+      }
+    ],
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "averageRating": 9.6,
+    "duration": "201 minutes",
+    "releaseYear": 2003
+  },
+  {
+    "title": "The Pianist",
+    "type": "Movie",
+    "directors": [
+      "Roman Polanski"
+    ],
+    "actors": [
+      "Adrien Brody",
+      "Thomas Kretschmann"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "susan_smith_123",
+        "rating": 10,
+        "comment": "A haunting portrayal of survival."
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 9,
+        "comment": "Adrien Brody's performance is outstanding."
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "A powerful and emotional journey."
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 10,
+        "comment": "One of the most impactful films I've seen."
+      }
+    ],
+    "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "averageRating": 9.5,
+    "duration": "150 minutes",
+    "releaseYear": 2002
+  },
+  {
+    "title": "The Matrix",
+    "type": "Movie",
+    "directors": [
+      "The Wachowskis"
+    ],
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne"
+    ],
+    "genres": [
+      "Action",
+      "SF"
+    ],
+    "ratings": [
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 10,
+        "comment": "Revolutionary film-making."
+      },
+      {
+        "username": "benjamin_taylor_3435",
+        "rating": 9,
+        "comment": "A mind-bending experience."
+      },
+      {
+        "username": "susan_smith_123",
+        "rating": 9,
+        "comment": "A cyberpunk classic!"
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 8,
+        "comment": "A groundbreaking SF film."
+      }
+    ],
+    "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "averageRating": 9.0,
+    "duration": "136 minutes",
+    "releaseYear": 1999
+  },
+  {
+    "title": "Sherlock",
+    "type": "Series",
+    "directors": [
+      "Mark Gatiss",
+      "Steven Moffat"
+    ],
+    "actors": [
+      "Benedict Cumberbatch",
+      "Martin Freeman"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "ratings": [
+      {
+        "username": "susan_smith_123",
+        "rating": 9,
+        "comment": "Clever and intriguing."
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 8,
+        "comment": "Excellent modern adaptation."
+      },
+      {
+        "username": "jessica_miller_1213",
+        "rating": 9,
+        "comment": "A brilliant modern take on the classic detective."
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 8,
+        "comment": "Benedict Cumberbatch nails it!"
+      }
+    ],
+    "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "averageRating": 8.6,
+    "releaseYear": 2010,
+    "numSeasons": 4,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "A Study in Pink",
+          "duration": "88 minutes"
+        },
+        {
+          "episodeName": "The Blind Banker",
+          "duration": "88 minutes"
+        },
+        {
+          "episodeName": "The Great Game",
+          "duration": "88 minutes"
+        }
+      ],
+      "Season 2": [
+        {
+          "episodeName": "A Scandal in Belgravia",
+          "duration": "88 minutes"
+        },
+        {
+          "episodeName": "The Hounds of Baskerville",
+          "duration": "86 minutes"
+        },
+        {
+          "episodeName": "The Reichenbach Fall",
+          "duration": "89 minutes"
+        }
+      ],
+      "Season 3": [
+        {
+          "episodeName": "The Empty Hearse",
+          "duration": "86 minutes"
+        },
+        {
+          "episodeName": "The Sign of Three",
+          "duration": "86 minutes"
+        },
+        {
+          "episodeName": "His Last Vow",
+          "duration": "89 minutes"
+        }
+      ],
+      "Season 4": [
+        {
+          "episodeName": "The Six Thatchers",
+          "duration": "88 minutes"
+        },
+        {
+          "episodeName": "The Lying Detective",
+          "duration": "89 minutes"
+        },
+        {
+          "episodeName": "The Final Problem",
+          "duration": "90 minutes"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Dark Knight",
+    "type": "Movie",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "jessica_miller_1213",
+        "rating": 9,
+        "comment": "Heath Ledger's performance is legendary."
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 8,
+        "comment": "A gripping crime thriller."
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "A modern classic."
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 9,
+        "comment": "One of the best superhero films ever made."
+      }
+    ],
+    "plot": "When the menace known as The Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "averageRating": 8.8,
+    "duration": "152 minutes",
+    "releaseYear": 2008
+  },
+  {
+    "title": "Inception",
+    "type": "Movie",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "SF"
+    ],
+    "ratings": [
+      {
+        "username": "susan_smith_123",
+        "rating": 10,
+        "comment": "Mind-blowing!"
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 9,
+        "comment": "A visual masterpiece."
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "A mind-bending journey."
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 10,
+        "comment": "Nolan's genius at its best."
+      }
+    ],
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "averageRating": 9.5,
+    "duration": "140 minutes",
+    "releaseYear": 2010
+  },
+  {
+    "title": "Stranger Things",
+    "type": "Series",
+    "directors": [
+      "The Duffer Brothers"
+    ],
+    "actors": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "ratings": [
+      {
+        "username": "jessica_miller_1213",
+        "rating": 8,
+        "comment": "Nostalgic and thrilling."
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 7,
+        "comment": "Great character development."
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 8,
+        "comment": "A fantastic blend of horror and '80s nostalgia."
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 7,
+        "comment": "A binge-worthy Series for sure!"
+      }
+    ],
+    "plot": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+    "averageRating": 7.8,
+    "releaseYear": 2016,
+    "numSeasons": 3,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "The Vanishing of Will Byers",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "The Weirdo on Maple Street",
+          "duration": "55 minutes"
+        },
+        {
+          "episodeName": "Holly, Jolly",
+          "duration": "51 minutes"
+        },
+        {
+          "episodeName": "The Body",
+          "duration": "50 minutes"
+        },
+        {
+          "episodeName": "The Flea and the Acrobat",
+          "duration": "52 minutes"
+        },
+        {
+          "episodeName": "The Monster",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "The Bathtub",
+          "duration": "42 minutes"
+        },
+        {
+          "episodeName": "The Upside Down",
+          "duration": "55 minutes"
+        }
+      ],
+      "Season 2": [
+        {
+          "episodeName": "MADMAX",
+          "duration": "54 minutes"
+        },
+        {
+          "episodeName": "Trick or Treat, Freak",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "The Pollywog",
+          "duration": "51 minutes"
+        },
+        {
+          "episodeName": "Will the Wise",
+          "duration": "46 minutes"
+        },
+        {
+          "episodeName": "Dig Dug",
+          "duration": "57 minutes"
+        },
+        {
+          "episodeName": "The Spy",
+          "duration": "48 minutes"
+        },
+        {
+          "episodeName": "The Lost Sister",
+          "duration": "46 minutes"
+        },
+        {
+          "episodeName": "The Mind Flayer",
+          "duration": "49 minutes"
+        },
+        {
+          "episodeName": "The Gate",
+          "duration": "64 minutes"
+        }
+      ],
+      "Season 3": [
+        {
+          "episodeName": "Suzie, Do You Copy?",
+          "duration": "51 minutes"
+        },
+        {
+          "episodeName": "The Mall Rats",
+          "duration": "50 minutes"
+        },
+        {
+          "episodeName": "The Case of the Missing Lifeguard",
+          "duration": "50 minutes"
+        },
+        {
+          "episodeName": "The Sauna Test",
+          "duration": "52 minutes"
+        },
+        {
+          "episodeName": "The Flayed",
+          "duration": "57 minutes"
+        },
+        {
+          "episodeName": "E Pluribus Unum",
+          "duration": "59 minutes"
+        },
+        {
+          "episodeName": "The Bite",
+          "duration": "56 minutes"
+        },
+        {
+          "episodeName": "The Battle of Starcourt",
+          "duration": "77 minutes"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Forrest Gump",
+    "type": "Movie",
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratings": [
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "A heartwarming tale of life and love."
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 9,
+        "comment": "An unforgettable cinematic experience."
+      },
+      {
+        "username": "susan_smith_123",
+        "rating": 8,
+        "comment": "Tom Hanks delivers an amazing performance."
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 8,
+        "comment": "A journey through American history."
+      }
+    ],
+    "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "averageRating": 8.5,
+    "duration": "142 minutes",
+    "releaseYear": 1994
+  },
+  {
+    "title": "The Green Mile",
+    "type": "Movie",
+    "directors": [
+      "Frank Darabont"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "ratings": [
+      {
+        "username": "susan_smith_123",
+        "rating": 10,
+        "comment": "Heartfelt and emotional."
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 9,
+        "comment": "A touching story of redemption."
+      },
+      {
+        "username": "olivia_taylor_2425",
+        "rating": 9,
+        "comment": "A deeply moving film."
+      },
+      {
+        "username": "daniel_smith_2627",
+        "rating": 10,
+        "comment": "A masterpiece of storytelling."
+      },
+      {
+        "username": "jessica_miller_1213",
+        "rating": 9,
+        "comment": "An unforgettable journey."
+      }
+    ],
+    "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "averageRating": 9.4,
+    "duration": "189 minutes",
+    "releaseYear": 1999
+  },
+  {
+    "title": "Inglourious Basterds",
+    "type": "Movie",
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "actors": [
+      "Brad Pitt",
+      "Diane Kruger",
+      "Christoph Waltz"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "ratings": [
+      {
+        "username": "jessica_miller_1213",
+        "rating": 9,
+        "comment": "Tarantino's signature style shines!"
+      },
+      {
+        "username": "peter_jones_1415",
+        "rating": 8,
+        "comment": "A thrilling alternate history tale."
+      },
+      {
+        "username": "susan_smith_123",
+        "rating": 9,
+        "comment": "A wild ride from start to finish!"
+      },
+      {
+        "username": "mark_johnson_456",
+        "rating": 8,
+        "comment": "A brilliant ensemble cast."
+      }
+    ],
+    "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "averageRating": 8.8,
+    "duration": "153 minutes",
+    "releaseYear": 2009
+  },
+  {
+    "title": "Parasite",
+    "type": "Movie",
+    "directors": [
+      "Bong Joon-ho"
+    ],
+    "actors": [
+      "Kang-ho Song",
+      "Sun-kyun Lee",
+      "Yeo-jeong Jo"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 10,
+        "comment": "A brilliant social commentary."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 9,
+        "comment": "Masterfully crafted."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 9,
+        "comment": "A must-watch film."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Thought-provoking and entertaining."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 9,
+        "comment": "Incredible storytelling."
+      }
+    ],
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "averageRating": 9.2,
+    "duration": "132 minutes",
+    "releaseYear": 2019
+  },
+  {
+    "title": "Joker",
+    "type": "Movie",
+    "directors": [
+      "Todd Phillips"
+    ],
+    "actors": [
+      "Joaquin Phoenix",
+      "Robert De Niro"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "Phoenix's performance is hauntingly brilliant."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "A dark and intense character study."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 9,
+        "comment": "A cinematic masterpiece."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Disturbing yet captivating."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 9,
+        "comment": "A tour de force in filmmaking."
+      }
+    ],
+    "plot": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+    "averageRating": 8.7,
+    "duration": "122 minutes",
+    "releaseYear": 2019
+  },
+  {
+    "title": "1917",
+    "type": "Movie",
+    "directors": [
+      "Sam Mendes"
+    ],
+    "actors": [
+      "Dean-Charles Chapman",
+      "George MacKay"
+    ],
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "A breathtaking cinematic experience."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 9,
+        "comment": "A technical marvel."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "Immersive and intense."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A unique and gripping war film."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A masterclass in cinematography."
+      }
+    ],
+    "plot": "Two young British soldiers during World War I are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap.",
+    "averageRating": 8.5,
+    "duration": "119 minutes",
+    "releaseYear": 2019
+  },
+  {
+    "title": "The Irishman",
+    "type": "Movie",
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Joe Pesci"
+    ],
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "A masterclass in acting."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 9,
+        "comment": "A mob epic with stellar performances."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 9,
+        "comment": "Scorsese's storytelling at its finest."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A gripping tale of organized crime."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "An epic journey through a criminal empire."
+      }
+    ],
+    "plot": "An old man recalls his time painting houses for his friend, Jimmy Hoffa, through the 1950-70s.",
+    "averageRating": 8.6,
+    "duration": "209 minutes",
+    "releaseYear": 2019
+  },
+  {
+    "title": "The Mandalorian",
+    "type": "Series",
+    "directors": [
+      "Jon Favreau"
+    ],
+    "actors": [
+      "Pedro Pascal",
+      "Gina Carano"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "A thrilling space adventure."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "A great addition to the Star Wars universe."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 7,
+        "comment": "Captivating characters and world."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 7,
+        "comment": "A fresh take on the Star Wars saga."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "Exciting and visually stunning."
+      }
+    ],
+    "plot": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "averageRating": 8.0,
+    "releaseYear": 2019,
+    "numSeasons": 2,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "Chapter 1: The Mandalorian",
+          "duration": "39 minutes"
+        },
+        {
+          "episodeName": "Chapter 2: The Child",
+          "duration": "32 minutes"
+        },
+        {
+          "episodeName": "Chapter 3: The Sin",
+          "duration": "38 minutes"
+        },
+        {
+          "episodeName": "Chapter 4: Sanctuary",
+          "duration": "41 minutes"
+        },
+        {
+          "episodeName": "Chapter 5: The Gunslinger",
+          "duration": "35 minutes"
+        },
+        {
+          "episodeName": "Chapter 6: The Prisoner",
+          "duration": "41 minutes"
+        },
+        {
+          "episodeName": "Chapter 7: The Reckoning",
+          "duration": "46 minutes"
+        },
+        {
+          "episodeName": "Chapter 8: Redemption",
+          "duration": "48 minutes"
+        }
+      ],
+      "Season 2": [
+        {
+          "episodeName": "Chapter 9: The Marshal",
+          "duration": "52 minutes"
+        },
+        {
+          "episodeName": "Chapter 10: The Passenger",
+          "duration": "39 minutes"
+        },
+        {
+          "episodeName": "Chapter 11: The Heiress",
+          "duration": "36 minutes"
+        },
+        {
+          "episodeName": "Chapter 12: The Siege",
+          "duration": "38 minutes"
+        },
+        {
+          "episodeName": "Chapter 13: The Jedi",
+          "duration": "47 minutes"
+        },
+        {
+          "episodeName": "Chapter 14: The Tragedy",
+          "duration": "32 minutes"
+        },
+        {
+          "episodeName": "Chapter 15: The Believer",
+          "duration": "38 minutes"
+        },
+        {
+          "episodeName": "Chapter 16: The Rescue",
+          "duration": "46 minutes"
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Queen's Gambit",
+    "type": "Series",
+    "directors": [
+      "Scott Frank"
+    ],
+    "actors": [
+      "Anya Taylor-Joy",
+      "Bill Camp"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "Brilliant performance by Anya Taylor-Joy."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "A captivating story of chess and personal growth."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 9,
+        "comment": "A must-watch for its unique subject."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Compelling and beautifully shot."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A surprising gem of a Series."
+      }
+    ],
+    "plot": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+    "averageRating": 8.6,
+    "releaseYear": 2020,
+    "numSeasons": 1,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "Openings",
+          "duration": "66 minutes"
+        },
+        {
+          "episodeName": "Exchanges",
+          "duration": "59 minutes"
+        },
+        {
+          "episodeName": "Doubled Pawns",
+          "duration": "58 minutes"
+        },
+        {
+          "episodeName": "Middle Game",
+          "duration": "57 minutes"
+        },
+        {
+          "episodeName": "Fork",
+          "duration": "60 minutes"
+        },
+        {
+          "episodeName": "Adjournment",
+          "duration": "58 minutes"
+        },
+        {
+          "episodeName": "End Game",
+          "duration": "64 minutes"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Squid Game",
+    "type": "Series",
+    "directors": [
+      "Hwang Dong-hyuk"
+    ],
+    "actors": [
+      "Lee Jung-jae",
+      "Park Hae-soo"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "Intense and thought-provoking."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 9,
+        "comment": "A unique and gripping survival story."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A social commentary wrapped in a thriller."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Kept me on the edge of my seat."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A roller-coaster of emotions."
+      }
+    ],
+    "plot": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes.",
+    "averageRating": 8.5,
+    "releaseYear": 2021,
+    "numSeasons": 1,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "Red Light, Green Light",
+          "duration": "31 minutes"
+        },
+        {
+          "episodeName": "Hell",
+          "duration": "34 minutes"
+        },
+        {
+          "episodeName": "The Man with the Umbrella",
+          "duration": "32 minutes"
+        },
+        {
+          "episodeName": "Stick to the Team",
+          "duration": "38 minutes"
+        },
+        {
+          "episodeName": "A Fair World",
+          "duration": "36 minutes"
+        },
+        {
+          "episodeName": "Gganbu",
+          "duration": "35 minutes"
+        },
+        {
+          "episodeName": "VIPS",
+          "duration": "44 minutes"
+        },
+        {
+          "episodeName": "Front Man",
+          "duration": "43 minutes"
+        },
+        {
+          "episodeName": "The One Lucky Man",
+          "duration": "56 minutes"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Whiplash",
+    "type": "Movie",
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "actors": [
+      "Miles Teller",
+      "J.K. Simmons"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "A gripping portrayal of ambition and obsession."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 9,
+        "comment": "Incredible performances, especially by J.K. Simmons."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A tense and exhilarating film."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A must-watch for music enthusiasts."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A drumming masterpiece."
+      }
+    ],
+    "plot": "A promising young drummer enrolls at a cutthroat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "averageRating": 8.5,
+    "duration": "107 minutes",
+    "releaseYear": 2014
+  },
+  {
+    "title": "The Social Network",
+    "type": "Movie",
+    "directors": [
+      "David Fincher"
+    ],
+    "actors": [
+      "Jesse Eisenberg",
+      "Andrew Garfield"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "A riveting look at the birth of Facebook."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "Sharp writing and brilliant performances."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "Compelling and thought-provoking."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A fascinating dive into modern tech history."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A compelling character study."
+      }
+    ],
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+    "averageRating": 7.7,
+    "duration": "120 minutes",
+    "releaseYear": 2010
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "type": "Movie",
+    "directors": [
+      "Michel Gondry"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Kate Winslet"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "SF"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "A beautifully unique love story."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "Inventive and emotionally resonant."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A mind-bending journey through love and memory."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Jim Carrey's best dramatic performance."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 9,
+        "comment": "A touching exploration of relationships."
+      }
+    ],
+    "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "averageRating": 8.3,
+    "duration": "108 minutes",
+    "releaseYear": 2004
+  },
+  {
+    "title": "La La Land",
+    "type": "Movie",
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "actors": [
+      "Ryan Gosling",
+      "Emma Stone"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "A dazzling musical with great chemistry."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "Visually stunning with memorable music."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 7,
+        "comment": "A modern musical with heart."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A love letter to dreamers."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A beautifully crafted ode to Hollywood."
+      }
+    ],
+    "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "averageRating": 8.0,
+    "duration": "128 minutes",
+    "releaseYear": 2016
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "type": "Movie",
+    "directors": [
+      "Wes Anderson"
+    ],
+    "actors": [
+      "Ralph Fiennes",
+      "F. Murray Abraham"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "Quirky and visually delightful."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "A charming caper with Anderson's signature style."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A whimsical journey with a fantastic ensemble cast."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Anderson's visual storytelling at its best."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 7,
+        "comment": "A delightful and eccentric adventure."
+      }
+    ],
+    "plot": "A hotel concierge and a lobby boy become embroiled in the theft of a priceless painting and the battle for an enormous family fortune.",
+    "averageRating": 8.1,
+    "duration": "99 minutes",
+    "releaseYear": 2014
+  },
+  {
+    "title": "The Shape of Water",
+    "type": "Movie",
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "actors": [
+      "Sally Hawkins",
+      "Octavia Spencer",
+      "Michael Shannon"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "A visually stunning fairy tale."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "A unique and enchanting love story."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 7,
+        "comment": "A beautifully crafted film with standout performances."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Del Toro's imagination knows no bounds."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 7,
+        "comment": "A captivating and imaginative love story."
+      }
+    ],
+    "plot": "At a top-secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+    "averageRating": 7.3,
+    "duration": "123 minutes",
+    "releaseYear": 2017
+  },
+  {
+    "title": "Black Swan",
+    "type": "Movie",
+    "directors": [
+      "Darren Aronofsky"
+    ],
+    "actors": [
+      "Natalie Portman",
+      "Mila Kunis"
+    ],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "A psychological masterpiece with stunning performances."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "Visually striking and emotionally intense."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A gripping descent into madness."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "Portman's performance is breathtaking."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 7,
+        "comment": "A visceral and haunting experience."
+      }
+    ],
+    "plot": "A committed dancer competes for the lead role in a production of Tchaikovsky's 'Swan Lake' only to be met with competition from a rival dancer who impresses as the seductive Black Swan.",
+    "averageRating": 8.0,
+    "duration": "108 minutes",
+    "releaseYear": 2010
+  },
+  {
+    "title": "The Revenant",
+    "type": "Movie",
+    "directors": [
+      "Alejandro González Iñárritu"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hardy"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "Visually stunning with a powerhouse performance by DiCaprio."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "A brutal and immersive survival story."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 7,
+        "comment": "A testament to the human spirit and determination."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "DiCaprio's dedication is awe-inspiring."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 7,
+        "comment": "A visually arresting epic."
+      }
+    ],
+    "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "averageRating": 7.8,
+    "duration": "156 minutes",
+    "releaseYear": 2015
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "type": "Movie",
+    "directors": [
+      "George Miller"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "SF"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "A high-octane action extravaganza."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "Visually breathtaking with relentless action."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 7,
+        "comment": "A thrilling ride through the post-apocalyptic wasteland."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A masterclass in action filmmaking."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 7,
+        "comment": "An adrenaline-pumping spectacle."
+      }
+    ],
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the help of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "averageRating": 8.1,
+    "duration": "120 minutes",
+    "releaseYear": 2015
+  },
+  {
+    "title": "A Beautiful Mind",
+    "type": "Movie",
+    "directors": [
+      "Ron Howard"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 8,
+        "comment": "A powerful portrayal of a brilliant mind."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 8,
+        "comment": "Crowe's performance is outstanding."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A moving exploration of genius and mental illness."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 7,
+        "comment": "A thought-provoking biographical drama."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A testament to the human spirit."
+      }
+    ],
+    "plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "averageRating": 7.9,
+    "duration": "135 minutes",
+    "releaseYear": 2001
+  },
+  {
+    "title": "The Departed",
+    "type": "Movie",
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "A gripping and intense crime drama."
+      },
+      {
+        "username": "david_brown_1011",
+        "rating": 9,
+        "comment": "A Scorsese classic with a powerhouse cast."
+      },
+      {
+        "username": "laura_williams_1617",
+        "rating": 8,
+        "comment": "A rollercoaster of suspense and betrayal."
+      },
+      {
+        "username": "steven_jackson_1819",
+        "rating": 8,
+        "comment": "A masterclass in tension and storytelling."
+      },
+      {
+        "username": "natalie_brown_2021",
+        "rating": 8,
+        "comment": "A crime drama that keeps you on the edge of your seat."
+      }
+    ],
+    "plot": "An undercover cop and a mole in the police force attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "averageRating": 8.5,
+    "duration": "151 minutes",
+    "releaseYear": 2006
+  },
+  {
+    "title": "Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!",
+    "type": "Movie",
+    "directors": [
+      "Vasile Versaci"
+    ],
+    "actors": [
+      "Vasile Versaci"
+    ],
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Cooking"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 10,
+        "comment": "Nu am vazut un film mai bun in viata mea."
+      }
+    ],
+    "plot": "Cel mai bun pregaratar pregateste uorez cu lapte pentru mafia uorezului si toti nepotii lui.",
+    "averageRating": 10.0,
+    "duration": "2 minutes",
+    "releaseYear": 2017
+  },
+  {
+    "title": "Bahoi sare de pe pod",
+    "type": "Movie",
+    "directors": [
+      "Bahoi"
+    ],
+    "actors": [
+      "Bahoi"
+    ],
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "ratings": [
+      {
+        "username": "ava_brown_3233",
+        "rating": 10,
+        "comment": "Cel mai bun film de actiune."
+      }
+    ],
+    "plot": "Bahoi sare de pe pod. Titlul e un bun rezumat al filmului.",
+    "averageRating": 10.0,
+    "duration": "3 minute",
+    "releaseYear": 2009
+  },
+  {
+    "title": "Test Movie",
+    "type": "Movie",
+    "directors": [
+      "Test Director"
+    ],
+    "actors": [
+      "Test Actor"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 6,
+        "comment": "Test Comment"
+      }
+    ],
+    "plot": "Test Plot",
+    "averageRating": 6.0,
+    "duration": "1 minute"
+  },
+  {
+    "title": "Test Series",
+    "type": "Series",
+    "directors": [
+      "Test Director"
+    ],
+    "actors": [
+      "Test Actor"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "ratings": [
+      {
+        "username": "emily_wilson_789",
+        "rating": 9,
+        "comment": "Test Comment"
+      }
+    ],
+    "plot": "Test Plot",
+    "averageRating": 9.0,
+    "releaseYear": 2021,
+    "numSeasons": 1,
+    "seasons": {
+      "Season 1": [
+        {
+          "episodeName": "Test Episode",
+          "duration": "100 minutes"
+        }
+      ]
+    }
+  }
+]

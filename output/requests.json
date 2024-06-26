@@ -1,0 +1,36 @@
+[ {
+  "type" : "DELETE_ACCOUNT",
+  "createdDate" : "2023-09-15T10:00:00",
+  "title" : null,
+  "description" : "I want to delete my account.",
+  "username" : "jessica_miller_1213",
+  "to" : "ADMIN"
+}, {
+  "type" : "ACTOR_ISSUE",
+  "createdDate" : "2023-09-14T15:30:00",
+  "title" : "Tom Hanks",
+  "description" : "There's missing information for Tom Hanks. He is also a filmmaker.",
+  "username" : "daniel_smith_2627",
+  "to" : "laura_williams_1617"
+}, {
+  "type" : "MOVIE_ISSUE",
+  "createdDate" : "2023-09-13T14:45:00",
+  "title" : "Inception",
+  "description" : "There's an error in the Inception movie details.The duration of the movie is 148 minutes.",
+  "username" : "benjamin_taylor_3435",
+  "to" : "natalie_brown_2021"
+}, {
+  "type" : "OTHERS",
+  "createdDate" : "2023-09-12T09:20:00",
+  "title" : null,
+  "description" : "Please add the movie Titanic.",
+  "username" : "olivia_taylor_2425",
+  "to" : "ADMIN"
+}, {
+  "type" : "MOVIE_ISSUE",
+  "createdDate" : "2024-01-11T20:27:25",
+  "title" : "Filmul POO",
+  "description" : "Are durata de 100 de min de fapt",
+  "username" : "testRegular",
+  "to" : "test Ghita Alexandru"
+} ]

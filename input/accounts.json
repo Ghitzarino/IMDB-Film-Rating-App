@@ -1,0 +1,518 @@
+[
+  {
+    "username": "emily_wilson_789",
+    "experience": "8",
+    "information": {
+      "credentials": {
+        "email": "emily.wilson@example.com",
+        "password": "P@ssw0rd!23"
+      },
+      "name": "Emily Wilson",
+      "country": "UK",
+      "age": 32,
+      "gender": "Female",
+      "birthDate": "1991-03-17"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "The Shawshank Redemption",
+      "The Godfather",
+      "Schindler's List"
+    ],
+    "actorsContribution": [
+      "Viola Davis",
+      "Brad Pitt"
+    ],
+    "favoriteProductions": [
+      "The Shawshank Redemption",
+      "Schindler's List",
+      "The Lord of the Rings: The Return of the King",
+      "The Departed",
+      "The Pianist"
+    ],
+    "favoriteActors": [
+      "Viola Davis",
+      "Brad Pitt",
+      "Meryl Streep"
+    ]
+  },
+  {
+    "username": "susan_smith_123",
+    "experience": "3",
+    "information": {
+      "credentials": {
+        "email": "susan.smith@example.com",
+        "password": "R8F!b&e9m3U6"
+      },
+      "name": "Susan Smith",
+      "country": "USA",
+      "age": 35,
+      "gender": "Female",
+      "birthDate": "1988-11-25"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "mark_johnson_456",
+    "experience": "5",
+    "information": {
+      "credentials": {
+        "email": "mark.johnson@example.com",
+        "password": "H#7pL@5j9n8F"
+      },
+      "name": "Mark Johnson",
+      "country": "Canada",
+      "age": 45,
+      "gender": "Male",
+      "birthDate": "1978-06-30"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "david_brown_1011",
+    "experience": "2",
+    "information": {
+      "credentials": {
+        "email": "david.brown@example.com",
+        "password": "Dav1d!#29Br0wn"
+      },
+      "name": "David Brown",
+      "country": "Germany",
+      "age": 29,
+      "gender": "Male",
+      "birthDate": "1994-09-05"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "Breaking Bad",
+      "Pulp Fiction",
+      "The Departed"
+    ],
+    "actorsContribution": [
+      "Johnny Depp",
+      "Cate Blanchett"
+    ],
+    "favoriteProductions": [
+      "The Mandalorian",
+      "Mad Max: Fury Road"
+    ],
+    "favoriteActors": [
+      "Robert Downey Jr.",
+      "Charlize Theron",
+      "Daniel Radcliffe"
+    ]
+  },
+  {
+    "username": "jessica_miller_1213",
+    "experience": "7",
+    "information": {
+      "credentials": {
+        "email": "jessica.miller@example.com",
+        "password": "J3ss!#96M!ll3r"
+      },
+      "name": "Jessica Miller",
+      "country": "France",
+      "age": 27,
+      "gender": "Female",
+      "birthDate": "1996-02-20"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "peter_jones_1415",
+    "experience": "6",
+    "information": {
+      "credentials": {
+        "email": "peter.jones@example.com",
+        "password": "P3t3r!#38J0n3s"
+      },
+      "name": "Peter Jones",
+      "country": "Italy",
+      "age": 38,
+      "gender": "Male",
+      "birthDate": "1985-07-12"
+    },
+    "userType": "Regular",
+    "favoriteProductions": [
+      "Squid Game"
+    ],
+    "favoriteActors": [
+      "Leonardo DiCaprio",
+      "Johnny Depp",
+      "Cate Blanchett"
+    ]
+  },
+  {
+    "username": "laura_williams_1617",
+    "experience": "4",
+    "information": {
+      "credentials": {
+        "email": "laura.williams@example.com",
+        "password": "L@ur@!#31W!ll!@ms"
+      },
+      "name": "Laura Williams",
+      "country": "Spain",
+      "age": 31,
+      "gender": "Female",
+      "birthDate": "1992-12-28"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "The Lord of the Rings: The Return of the King",
+      "The Pianist",
+      "The Matrix"
+    ],
+    "actorsContribution": [
+      "Meryl Streep",
+      "Tom Hanks"
+    ]
+  },
+  {
+    "username": "steven_jackson_1819",
+    "experience": null,
+    "information": {
+      "credentials": {
+        "email": "steven.jackson@example.com",
+        "password": "St3v3n!#42J@cks0n"
+      },
+      "name": "Steven Jackson",
+      "country": "Japan",
+      "age": 42,
+      "gender": "Male",
+      "birthDate": "1981-04-08"
+    },
+    "userType": "Admin",
+    "productionsContribution": [
+      "The Revenant",
+      "Mad Max: Fury Road",
+      "A Beautiful Mind"
+    ],
+    "actorsContribution": [
+      "Leonardo DiCaprio",
+      "Charlize Theron"
+    ]
+  },
+  {
+    "username": "natalie_brown_2021",
+    "experience": "9",
+    "information": {
+      "credentials": {
+        "email": "natalie.brown@example.com",
+        "password": "N@t@l!3!#33Br0wn"
+      },
+      "name": "Natalie Brown",
+      "country": "Australia",
+      "age": 33,
+      "gender": "Female",
+      "birthDate": "1990-10-15"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "Sherlock",
+      "The Dark Knight",
+      "Inception"
+    ],
+    "actorsContribution": [
+      "Robert Downey Jr.",
+      "Denzel Washington"
+    ],
+    "favoriteProductions": [
+      "1917",
+      "The Irishman",
+      "The Mandalorian",
+      "The Queen's Gambit",
+      "Squid Game",
+      "Whiplash",
+      "The Social Network",
+      "Eternal Sunshine of the Spotless Mind",
+      "La La Land"
+    ],
+    "favoriteActors": [
+      "Robert Downey Jr.",
+      "Charlize Theron",
+      "Daniel Radcliffe"
+    ]
+  },
+  {
+    "username": "michael_davis_2223",
+    "experience": "1",
+    "information": {
+      "credentials": {
+        "email": "michael.davis@example.com",
+        "password": "M!ch@3l!#36D@v!s"
+      },
+      "name": "Michael Davis",
+      "country": "Brazil",
+      "age": 36,
+      "gender": "Male",
+      "birthDate": "1987-07-19"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "Stranger Things",
+      "Forrest Gump",
+      "The Green Mile"
+    ]
+  },
+  {
+    "username": "olivia_taylor_2425",
+    "experience": "10",
+    "information": {
+      "credentials": {
+        "email": "olivia.taylor@example.com",
+        "password": "0l!v!@#29T@yl0r"
+      },
+      "name": "Olivia Taylor",
+      "country": "South Africa",
+      "age": 29,
+      "gender": "Female",
+      "birthDate": "1994-01-03"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "daniel_smith_2627",
+    "experience": "11",
+    "information": {
+      "credentials": {
+        "email": "daniel.smith@example.com",
+        "password": "D@n!3l!#37Sm!th"
+      },
+      "name": "Daniel Smith",
+      "country": "Russia",
+      "age": 37,
+      "gender": "Male",
+      "birthDate": "1986-05-28"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "sophia_johnson_2829",
+    "experience": "12",
+    "information": {
+      "credentials": {
+        "email": "sophia.johnson@example.com",
+        "password": "S0ph!@#30J0hns0n"
+      },
+      "name": "Sophia Johnson",
+      "country": "China",
+      "age": 30,
+      "gender": "Female",
+      "birthDate": "1993-09-10"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "Inglourious Basterds",
+      "Parasite",
+      "Joker"
+    ]
+  },
+  {
+    "username": "james_wilson_3031",
+    "experience": "13",
+    "information": {
+      "credentials": {
+        "email": "james.wilson@example.com",
+        "password": "J@m3s!#31W!ls0n"
+      },
+      "name": "James Wilson",
+      "country": "India",
+      "age": 31,
+      "gender": "Male",
+      "birthDate": "1992-12-05"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "1917",
+      "The Irishman",
+      "The Mandalorian"
+    ]
+  },
+  {
+    "username": "ava_brown_3233",
+    "experience": "14",
+    "information": {
+      "credentials": {
+        "email": "ava.brown@example.com",
+        "password": "Av@!#26Br0wn"
+      },
+      "name": "Ava Brown",
+      "country": "Mexico",
+      "age": 26,
+      "gender": "Female",
+      "birthDate": "1997-06-18"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "benjamin_taylor_3435",
+    "experience": "15",
+    "information": {
+      "credentials": {
+        "email": "benjamin.taylor@example.com",
+        "password": "B3nj@m!n!#34T@yl0r"
+      },
+      "name": "Benjamin Taylor",
+      "country": "Germany",
+      "age": 34,
+      "gender": "Male",
+      "birthDate": "1989-03-30"
+    },
+    "userType": "Regular"
+  },
+  {
+    "username": "mia_jones_3637",
+    "experience": "16",
+    "information": {
+      "credentials": {
+        "email": "mia.jones@example.com",
+        "password": "M!@#39J0n3s"
+      },
+      "name": "Mia Jones",
+      "country": "Italy",
+      "age": 39,
+      "gender": "Female",
+      "birthDate": "1984-08-15"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "The Queen's Gambit",
+      "Squid Game",
+      "Whiplash"
+    ]
+  },
+  {
+    "username": "william_davis_3839",
+    "experience": "17",
+    "information": {
+      "credentials": {
+        "email": "william.davis@example.com",
+        "password": "W!ll!@#41D@v!s"
+      },
+      "name": "William Davis",
+      "country": "Spain",
+      "age": 41,
+      "gender": "Male",
+      "birthDate": "1982-10-20"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "The Social Network",
+      "Eternal Sunshine of the Spotless Mind",
+      "La La Land"
+    ]
+  },
+  {
+    "username": "olivia_wilson_4041",
+    "experience": null,
+    "information": {
+      "credentials": {
+        "email": "olivia.wilson@example.com",
+        "password": "0l!v!@#28W!ls0n"
+      },
+      "name": "Olivia Wilson",
+      "country": "France",
+      "age": 28,
+      "gender": "Female",
+      "birthDate": "1995-01-12"
+    },
+    "userType": "Admin",
+    "productionsContribution": [
+      "The Grand Budapest Hotel",
+      "The Shape of Water",
+      "Black Swan"
+    ],
+    "actorsContribution": [
+      "Nicole Kidman",
+      "Daniel Radcliffe"
+    ]
+  },
+  {
+    "username": "adminUser",
+    "experience": null,
+    "information": {
+      "credentials": {
+        "email": "bossuAlMare@ymail.com",
+        "password": "test"
+      },
+      "name": "Nicusor de la Braila",
+      "country": "RO",
+      "age": 42,
+      "gender": "Male",
+      "birthDate": "1981-06-22"
+    },
+    "userType": "Admin",
+    "productionsContribution": [
+      "Bahoi sare de pe pod",
+      "Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!"
+    ],
+    "actorsContribution": [
+      "Bahoi",
+      "Vasile Versaci"
+    ]
+  },
+  {
+    "username": "testRegular",
+    "experience": "100",
+    "information": {
+      "credentials": {
+        "email": "reg@ular.ro",
+        "password": "test"
+      },
+      "name": "Regular",
+      "country": "RO",
+      "age": 22,
+      "gender": "Male",
+      "birthDate": "1999-06-22"
+    },
+    "userType": "Regular",
+    "favoriteProductions": [
+      "Bahoi sare de pe pod",
+      "Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!"
+    ],
+    "favoriteActors": [
+      "Bahoi",
+      "Vasile Versaci"
+    ],
+    "notifications": [
+      "Filmul \"Bahoi sare de pe pod\" pe care il ai in lista de favorite a primit un review de la utilizatorul \"ava_brown_3233\" -> 10",
+      "Filmul \"Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!\" pe care il ai in lista de favorite a primit un review de la utilizatorul \"emily_wilson_789\" -> 10"
+    ]
+  },
+  {
+    "username": "testContributor",
+    "experience": "100",
+    "information": {
+      "credentials": {
+        "email": "cont@tributor.ro",
+        "password": "test"
+      },
+      "name": "Contributor",
+      "country": "RO",
+      "age": 24,
+      "gender": "Female",
+      "birthDate": "1997-06-22"
+    },
+    "userType": "Contributor",
+    "productionsContribution": [
+      "Test Movie",
+      "Test Series"
+    ],
+    "actorsContribution": [
+      "Test Actor"
+    ],
+    "favoriteProductions": [
+      "Bahoi sare de pe pod",
+      "Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!"
+    ],
+    "favoriteActors": [
+      "Test Actor"
+    ],
+    "notifications": [
+      "Filmul \"Test Movie\" pe care l-ai adaugat a primit un review de la utilizatorul \"emily_wilson_789\" -> 6",
+      "Serialul \"Test Series\" pe care l-ai adaugat a primit un review de la utilizatorul \"emily_wilson_789\" -> 9",
+      "Filmul \"Bahoi sare de pe pod\" pe care il ai in lista de favorite a primit un review de la utilizatorul \"ava_brown_3233\" -> 10",
+      "Filmul \"Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!\" pe care il ai in lista de favorite a primit un review de la utilizatorul \"emily_wilson_789\" -> 10"
+    ]
+  }
+]
