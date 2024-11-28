@@ -10,8 +10,8 @@ While the GUI demonstrates backend-to-frontend connectivity, it does not impleme
 Development Overview:
 1) Time Investment: Approximately 50 hours over two weeks.
 2) Difficulty:
-a) Time: Challenging due to the scope and required effort.
-b) Complexity: Moderate, with no particularly confusing or difficult concepts.
+  1) Time: Challenging due to the scope and required effort.
+  2) Complexity: Moderate, with no particularly confusing or difficult concepts.
 
 The project significantly deepened my understanding of object-oriented programming (OOP) principles, including encapsulation and design patterns.
 
@@ -23,17 +23,17 @@ A Singleton instance is used in the IMDB class (the main class) to manage parsed
 The Jackson library is used for parsing and writing JSON files.
 
 2) Design Patterns:
-a) Factory Pattern: A UserFactory is implemented to create User objects.
-b) Builder Pattern: Used for the Information field within the User class to simplify object construction.
-c) Strategy Pattern: Enables the dynamic selection of user experience increment methods in the User class.
-d) Observer Pattern:
+  1) Factory Pattern: A UserFactory is implemented to create User objects.
+  2) Builder Pattern: Used for the Information field within the User class to simplify object construction.
+  3) Strategy Pattern: Enables the dynamic selection of user experience increment methods in the User class.
+  4) Observer Pattern:
 User objects act as observers for Rating, Review, and Production subjects.
 Notifications are sent to the creator of a production when a review or rating is received.
 
 3) Functionality:
-a) Full compliance with the project requirements, with all features testable via the CLI.
-b) Bonus Features: Enhanced sorting and filtering options for productions.
-c) Persistence:
+  1) Full compliance with the project requirements, with all features testable via the CLI.
+  2) Bonus Features: Enhanced sorting and filtering options for productions.
+  3) Persistence:
 Changes made during a session are saved to JSON files.
 On the next run, the application successfully parses the saved data, enabling real data persistence.
 
