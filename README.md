@@ -1,30 +1,47 @@
-README IMDB – PROIECT POO
-			-Ghiță Alexandru
+IMDb-Style Application
+Author: Alexandru Ghita
 
-Acest proiect reprezinta implementarea unei aplicatii stil IMDB, care prezinta un terminal 
-complet functional cu posibilitatea de testare a tuturor functionalitatilor si in plus salvarea 
-modificarilor asupra fisierelor json si inceperea urmatoarei rulari cu informatiile nou salvate, 
-cat si o interfata grafica functionala, dar care nu prezinta absolut toate functionalitatile, 
-ci demonstreaza mai mult capabilitatea de conectare a backend-ului si frontend-ului.
+This project is an implementation of an IMDb-style application, featuring both a fully functional command-line interface (CLI) and a graphical user interface (GUI). The application supports complete testing of all features and provides persistence by saving changes to JSON files. On subsequent runs, the application loads the saved data for continued use.
 
-Consider ca a fost un proiect cu un grad dificil de dificultate dpdv al timpului, necesitand 
-aproximativ 50 de ore de lucru pe parcursul a unui interval de 2 saptamani (de cand m-am apucat si 
-pana am terminat tema), dar cu un grad mediu al dificultatii dpdv al complexitatii, neavand niste 
-elemente pe care sa nu le inteleg sau pe care sa stau un timp indelungat pentru a imi da seama cum 
-se folosesc si cum se implementeaza.
+While the GUI demonstrates backend-to-frontend connectivity, it does not implement the full range of functionalities available in the CLI.
 
-In acest proiect am implementat toate clasele descrise folosind principiul incapsularii si le-am 
-folosit cu o instanta Singleton in clasa IMDB (clasa principala a proiectului) pentru a le stoca 
-din parsarea json-urilor (facuta folosind biblioteca Jackson) in niste liste. Am folosit UserFactory 
-pentru instantierea si crearea obiectelor de tip User. De asemenea, clasa User contine si campul 
-Information care este creat folosing design pattern-ul Builder. Tot pentru clasa User am creat si un 
-design pattern Strategy de care m-am folosit pentru selectarea metodei de incrementare a experientei 
-utilizatorului. Pe langa acestea, Userii faceau parte si din gruparea de Observers pentru care avea 
-ca Subjects obiecte din clasele Rating, Review si Production (pentru a notifica utilizatorul creator 
-cand primeste o recenzie productia adaugata de el).
+Development Overview
+Time Investment: Approximately 50 hours over two weeks.
+Difficulty:
+Time: Challenging due to the scope and required effort.
+Complexity: Moderate, with no particularly confusing or difficult concepts.
+The project significantly deepened my understanding of object-oriented programming (OOP) principles, including encapsulation and design patterns.
 
-Functionalitatile merg conform specificatiilor din enunt si au capacitatea de a fi testate prin 
-terminal. Ca si bonus am adaugat mai multe modalitati de sortare si filtrare a productiilor, iar 
-la sfarsitul rularii aplicatiei, schimbarile sunt salvate in fisiere json, din care la urmatoare 
-rulare pot fi parsate din nou cu succes pentru a oferi capacitatea de stocare reala a datelor 
-in folosirea aplicatiei.
+Implementation Details:
+
+Core Design:
+All classes adhere to the principle of encapsulation.
+A Singleton instance is used in the IMDB class (the main class) to manage parsed JSON data stored in lists.
+The Jackson library is used for parsing and writing JSON files.
+
+Design Patterns:
+Factory Pattern: A UserFactory is implemented to create User objects.
+Builder Pattern: Used for the Information field within the User class to simplify object construction.
+Strategy Pattern: Enables the dynamic selection of user experience increment methods in the User class.
+Observer Pattern:
+User objects act as observers for Rating, Review, and Production subjects.
+Notifications are sent to the creator of a production when a review or rating is received.
+
+Functionality:
+Full compliance with the project requirements, with all features testable via the CLI.
+Bonus Features:
+Enhanced sorting and filtering options for productions.
+Persistence:
+Changes made during a session are saved to JSON files.
+On the next run, the application successfully parses the saved data, enabling real data persistence.
+
+GUI:
+A functional graphical interface demonstrates connectivity between the backend and frontend.
+Focused on showcasing the integration rather than replicating all CLI features.
+
+Key Features:
+Comprehensive IMDb-like functionality, including user management, production reviews, and ratings.
+Integration of multiple design patterns for modularity and scalability.
+Real-time data persistence using JSON files.
+Bonus features for enhanced user experience, such as advanced sorting and filtering.
+This project was both challenging and rewarding, providing an opportunity to implement and refine various OOP concepts and patterns in a practical and impactful way. The result is a robust, extensible application with a solid foundation for further development.
