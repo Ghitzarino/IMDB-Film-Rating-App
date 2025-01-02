@@ -5,6 +5,7 @@ This project is an implementation of an IMDb-style application, featuring both a
 The application supports complete testing of all features and provides persistence by saving changes to JSON files.
 On subsequent runs, the application loads the saved data for continued use.
 While the GUI demonstrates backend-to-frontend connectivity, it does not implement the full range of functionalities available in the CLI.
+Java libraries used: Jackson for JSON parsing and Swing for frontend GUI.
 
 ## Development Overview:
 1) Time Investment: Approximately 50 hours over two weeks.
@@ -36,7 +37,7 @@ Changes made during a session are saved to JSON files.
 On the next run, the application successfully parses the saved data, enabling real data persistence.
 
 4) GUI:
-A functional graphical interface demonstrates connectivity between the backend and frontend.
+A functional graphical interface demonstrates connectivity between the backend and frontend using Swing.
 Focused on showcasing the integration rather than replicating all CLI features.
 
 5) Key Features:
