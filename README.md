@@ -5,6 +5,7 @@ This project is an implementation of an IMDb-style application, featuring both a
 The application supports complete testing of all features and provides persistence by saving changes to JSON files.
 On subsequent runs, the application loads the saved data for continued use.
 While the GUI demonstrates backend-to-frontend connectivity, it does not implement the full range of functionalities available in the CLI.
+
 Java libraries used: Jackson for JSON parsing and Swing for frontend GUI.
 
 ## Development Overview:
