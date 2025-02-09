@@ -16,6 +16,11 @@ Java libraries used: Jackson for JSON parsing and Swing for frontend GUI.
 
 The project significantly deepened my understanding of object-oriented programming (OOP) principles, including encapsulation and design patterns.
 
+## How to run:
+Open the src/main/java/classes folder and run the IMDB.java file.
+Choose terminal or graphic interface option.
+Use the account with email "a" and password "a" for testing the enviroment.
+
 ## Implementation Details:
 1) Core Design:
 All classes adhere to the principle of encapsulation.
