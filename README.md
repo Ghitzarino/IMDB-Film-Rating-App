@@ -1,4 +1,4 @@
-# IMDb-Style Application
+# IMDB-Style Application
 ## Author: Alexandru Ghita
 
 This project is an implementation of an IMDb-style application, featuring both a fully functional command-line interface (CLI) and a graphical user interface (GUI).
