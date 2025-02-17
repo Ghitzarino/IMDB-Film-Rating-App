@@ -1,56 +1,74 @@
-# IMDB-Style Application
-## Author: Alexandru Ghita
+# IMDB-Style Application  
+**Author**: Alexandru Ghita  
 
-This project is an implementation of an IMDb-style application, featuring both a fully functional command-line interface (CLI) and a graphical user interface (GUI).
-The application supports complete testing of all features and provides persistence by saving changes to JSON files.
-On subsequent runs, the application loads the saved data for continued use.
-While the GUI demonstrates backend-to-frontend connectivity, it does not implement the full range of functionalities available in the CLI.
+This project is an IMDb-style application built in **Java**, featuring both a **Command-Line Interface (CLI)** and a **Graphical User Interface (GUI)**. The application provides a comprehensive platform for managing users, productions, reviews, and ratings, with full data persistence using **JSON files**.  
 
-Java libraries used: Jackson for JSON parsing and Swing for frontend GUI.
+---
 
-## Development Overview:
-1) Time Investment: Approximately 50 hours over two weeks.
-2) Difficulty:
-* Time: Challenging due to the scope and required effort.
-* Complexity: Moderate, with no particularly confusing or difficult concepts.
+## **Features**  
+- **User Management**: Register, log in, and manage user accounts with different roles (e.g., regular user, admin).  
+- **Production Management**: Add, edit, and delete movies and series, complete with details like descriptions, genres, and cast.  
+- **Reviews and Ratings**: Users can leave reviews and ratings for productions, with notifications sent to production creators.  
+- **Advanced Sorting and Filtering**: Enhanced options for searching and organizing productions.  
+- **Persistence**: All changes are saved to JSON files and reloaded on subsequent runs.  
+- **GUI**: A functional graphical interface built with **Java Swing** demonstrates backend-to-frontend connectivity.  
 
-The project significantly deepened my understanding of object-oriented programming (OOP) principles, including encapsulation and design patterns.
+---
 
-## How to run:
-Open the src/main/java/classes folder and run the IMDB.java file.
-Choose terminal or graphic interface option.
-Use the account with email "a" and password "a" for testing the enviroment.
+## **Technologies Used**  
+- **Java**: Core programming language for the application.  
+- **Jackson Library**: For parsing and writing JSON files to enable data persistence.  
+- **Java Swing**: For building the graphical user interface.  
 
-## Implementation Details:
-1) Core Design:
-All classes adhere to the principle of encapsulation.
-A Singleton instance is used in the IMDB class (the main class) to manage parsed JSON data stored in lists.
-The Jackson library is used for parsing and writing JSON files.
+---
 
-2) Design Patterns:
-* Factory Pattern: A UserFactory is implemented to create User objects.
-* Builder Pattern: Used for the Information field within the User class to simplify object construction.
-* Strategy Pattern: Enables the dynamic selection of user experience increment methods in the User class.
-* Observer Pattern:
-User objects act as observers for Rating, Review, and Production subjects.
-Notifications are sent to the creator of a production when a review or rating is received.
+## **Design Patterns**  
+The application leverages several design patterns to ensure modularity, scalability, and maintainability:  
+- **Singleton**: Used in the `IMDB` class to manage parsed JSON data stored in lists.  
+- **Factory Pattern**: A `UserFactory` creates `User` objects based on roles.  
+- **Builder Pattern**: Simplifies the construction of the `Information` field within the `User` class.  
+- **Strategy Pattern**: Enables dynamic selection of user experience increment methods in the `User` class.  
+- **Observer Pattern**: Users act as observers for `Rating`, `Review`, and `Production` subjects, receiving notifications when updates occur.  
 
-3) Functionality:
-* Full compliance with the project requirements, with all features testable via the CLI.
-* Bonus Features: Enhanced sorting and filtering options for productions.
-* Persistence:
-Changes made during a session are saved to JSON files.
-On the next run, the application successfully parses the saved data, enabling real data persistence.
+---
 
-4) GUI:
-A functional graphical interface demonstrates connectivity between the backend and frontend using Swing.
-Focused on showcasing the integration rather than replicating all CLI features.
+## **How to Run**  
+1. Clone the repository to your local machine.  
+2. Navigate to the `src/main/java/classes` folder.  
+3. Run the `IMDB.java` file.  
+4. Choose between the **Terminal (CLI)** or **Graphic Interface (GUI)** option.  
+5. Use the test account with email `"a"` and password `"a"` to explore the environment.  
 
-5) Key Features:
-Comprehensive IMDb-like functionality, including user management, production reviews, and ratings.
-Integration of multiple design patterns for modularity and scalability.
-Real-time data persistence using JSON files.
-Bonus features for enhanced user experience, such as advanced sorting and filtering.
+---
 
-This project was both challenging and rewarding, providing an opportunity to implement and refine various OOP concepts and patterns
-in a practical and impactful way. The result is a robust, extensible application with a solid foundation for further development.
+## **Implementation Details**  
+### **Core Design**  
+- All classes adhere to the principle of **encapsulation**.  
+- Data is stored in JSON files and parsed using the **Jackson library**.  
+- The application supports **real-time data persistence**, ensuring changes are saved and reloaded on subsequent runs.  
+
+### **Functionality**  
+- **CLI**: Full compliance with project requirements, enabling testing of all features.  
+- **GUI**: Demonstrates backend-to-frontend connectivity using **Java Swing**, focusing on integration rather than replicating all CLI features.  
+- **Bonus Features**: Enhanced sorting and filtering options for productions.  
+
+---
+
+## **Development Overview**  
+- **Time Investment**: Approximately 50 hours over two weeks.  
+- **Difficulty**:  
+  - **Time**: Challenging due to the scope and required effort.  
+  - **Complexity**: Moderate, with no particularly confusing or difficult concepts.  
+
+This project significantly deepened my understanding of **object-oriented programming (OOP)** principles, including **encapsulation** and **design patterns**, while providing a practical and impactful application.  
+
+---
+
+## **Key Takeaways**  
+- A robust, extensible application with a solid foundation for further development.  
+- Hands-on experience with **Java**, **JSON parsing**, **GUI development**, and **design patterns**.  
+- Improved skills in **problem-solving**, **software design**, and **project management**.  
+
+---
+
+This project was both challenging and rewarding, offering an opportunity to implement and refine various OOP concepts in a practical and impactful way.  
